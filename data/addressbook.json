@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "postcode": "AB00CDE",
+      "email": "test.john@gmail.com",
+      "telephone": "0123 456 789"
+    },
+    {
+      "id": 2,
+      "name": "Lorem Ipsum",
+      "postcode": "FG00HIJ",
+      "email": "lorem.ipsum@yahoo.com",
+      "telephone": "0001 234 567"
+    }
+  ]
+}
